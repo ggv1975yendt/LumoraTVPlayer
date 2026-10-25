@@ -20,8 +20,8 @@ const translations = {
     "en": "Download ↗"
   },
   "release": {
-    "ru": "LUMORA TV PLAYER 1.3.49 · ДЛЯ ANDROID",
-    "en": "LUMORA TV PLAYER 1.3.49 · FOR ANDROID"
+    "ru": "LUMORA TV PLAYER 1.3.50 · ДЛЯ ANDROID",
+    "en": "LUMORA TV PLAYER 1.3.50 · FOR ANDROID"
   },
   "headline": {
     "ru": "Твой экран.<br><em>Твои правила.</em>",
